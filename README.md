@@ -9,6 +9,11 @@
 * /api/bulkGenerate [POST] : Generate bulk numbers
 
 ### Building Jar:
+Git clone the project repo.
+```
+https://github.com/bipinbilas/TestProject.git
+```
+Go inside the project folder to build.
 ```
 mvn clean install
 ```
